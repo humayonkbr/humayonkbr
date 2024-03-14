@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humayonkbr
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me ...
+- 📫 Reach me at: <a href="mailto:kr.humayon@gmail.com">kr.humayon@gmail.com</a>
 
 
 <!---
